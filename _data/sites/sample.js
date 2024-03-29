@@ -6,6 +6,9 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://www.speedlify.dev/"
+		"https://next.dundle.com/au/category/paymentcards/",
+		"https://next.dundle.dev/au/category/paymentcards/",
+		"https://next.dundle.dev/au/amazon/",
+		"https://next.dundle.com/au/amazon/",
 	]
 };

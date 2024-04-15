@@ -8,9 +8,12 @@ module.exports = {
 	urls: [
 		"https://next.dundle.com/au/category/paymentcards/",
 		"https://next.dundle.dev/au/category/paymentcards/",
+		"https://dundle-com-git-feat-buy-button-and-modals.preview.dundle.dev/au/category/paymentcards/",
 		"https://next.dundle.dev/au/amazon/",
 		"https://next.dundle.com/au/amazon/",
+		"https://dundle-com-git-feat-buy-button-and-modals.preview.dundle.dev/au/amazon/",
 		"https://next.dundle.dev/au/cashlib/",
 		"https://next.dundle.com/au/cashlib/",
+		"https://dundle-com-git-feat-buy-button-and-modals.preview.dundle.dev/au/cashlib/"
 	]
 };
